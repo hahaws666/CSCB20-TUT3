@@ -1,0 +1,20 @@
+p {
+    background-color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+.my-image {
+    width: 25vw;
+    height: 25vw;
+}
+
+.about-food {
+    font-family: monospace;
+}
+
+#favourite {
+    background-color: yellow;
+}
