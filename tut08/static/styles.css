@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  background-color: red;
+}
+
+h1 {
+  color: blue;
+}
+
+.my-image {
+  width: 25vw;
+  height: 25vw;
+}
+
+.about-food {
+  font-family: monospace;
+}
+
+#favourite {
+  background-color: green;
+}
+
+#change-mode {
+  margin-top: 10px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
